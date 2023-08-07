@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @dyannd, a Master's student in Electrical Engineering!!!
-- 👀 I’m interested in learning just anything that involves problem-solving and critical-thinking! 
+- Love taking Front-end JS/TS or Python scripting gigs ;)
 
 
 <!---

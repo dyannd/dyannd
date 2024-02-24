@@ -1,3 +1,4 @@
+- Electrical Engineer :* 
 - Love taking Front-end JS/TS or Python scripting gigs ;)
 <!---
 dyannd/dyannd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

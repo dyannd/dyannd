@@ -1,4 +1,4 @@
-- Electrical Engineer :* 
+- Hardware/Test Electrical Engineer :* 
 - Love taking Front-end web gigs ;)
 <!---
 dyannd/dyannd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
